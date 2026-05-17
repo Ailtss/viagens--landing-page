@@ -1,4 +1,4 @@
-# ✈️ TripMe - Landing Page de Viagens
+# ✈️ Landing Page de Viagens
 
 ## 📌 Resumo do Projeto
 
