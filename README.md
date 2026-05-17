@@ -86,7 +86,7 @@ viagens--landing-page/
 
 1. Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/viagens--landing-page
+git clone https://github.com/Ailtss/viagens--landing-page
 ```
 
 2. Acesse a pasta do projeto:
